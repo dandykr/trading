@@ -1,3 +1,5 @@
+# FIRST CODER : RAHMAT WAHYU HADI a.k.a bl4ckM4mba
+# ---=== editted on september '16 by DANDY KALMA RAHMATULLAH a.k.a. bobi ===---
 # tambah error handling ETC-BTC kebalik (belum)
 
 
