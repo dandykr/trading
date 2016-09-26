@@ -105,4 +105,4 @@ try:
 
 			perulangan = True
 except Exception:
-	print "Jangan lupa tulis nama koin"
+	print "Nama koin belum ada atau terbalik"
